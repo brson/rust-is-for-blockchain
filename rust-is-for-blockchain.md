@@ -317,3 +317,19 @@ _appear_ to have or are very interested in closed source Rust projects.
 143 sponsors
 24 blockchain sponsors
 16% of Rust conference sponsorship
+
+----
+
+
+### TODO
+
+- Rust blockchain discrimination
+  - https://github.com/cmr/this-week-in-rust/pull/1029
+  - https://www.reddit.com/r/rust/comments/dpakxq/rust_2020_more_or_less/f5tpnkx
+  - https://www.reddit.com/r/rust/comments/ds606s/an_apology/
+- rust blockchain runtimes / toolkits
+  - substrate
+  - muta / cita
+  - sealevel
+- solana sealevel
+  - https://github.com/solana-labs/solana/pull/6239
