@@ -158,10 +158,13 @@ _appear_ to have or are very interested in closed source Rust projects.
   - "main backend development language" - https://github.com/fluencelabs/tutorials
 - Ripple
   - [Interledger](https://interledger.org/)
+  - https://github.com/interledger-rs/interledger-rs
 - Protocol Labs (Filecoin)?
   - funding rust-libp2p
 - [imToken](https://token.im/)
 - [Findora](https://findora.org/)
+- [Enigma](https://enigma.co/)
+  - https://github.com/enigmampc/enigma-core
 
 
 ## Rust crates used by or created by blockchain projects
