@@ -157,7 +157,7 @@ _appear_ to have or are very interested in closed source Rust projects.
 - [Fluence Labs](https://fluence.network/)
   - "main backend development language" - https://github.com/fluencelabs/tutorials
 - Ripple
-  - Interledger
+  - [Interledger](https://interledger.org/)
 - Protocol Labs (Filecoin)?
   - funding rust-libp2p
 - [imToken](https://token.im/)
