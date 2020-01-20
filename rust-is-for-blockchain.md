@@ -81,6 +81,7 @@ _appear_ to have or are very interested in closed source Rust projects.
   - 3rd party
 - [Zcash](https://z.cash/)
   - [librustzcash](https://github.com/zcash/librustzcash)
+  - [zebra](https://github.com/ZcashFoundation/zebra)
 - [Mobilecoin](https://www.mobilecoin.com/)
   - [Partial source](https://github.com/mobilecoind/mobilecoin)
   - Source not public yet
@@ -165,7 +166,8 @@ _appear_ to have or are very interested in closed source Rust projects.
 - [Findora](https://findora.org/)
 - [Enigma](https://enigma.co/)
   - https://github.com/enigmampc/enigma-core
-
+- [Comit](https://github.com/comit-network)
+- [ptokens.io](https://ptokens.io)
 
 ## Rust crates used by or created by blockchain projects
 
