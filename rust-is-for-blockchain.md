@@ -104,7 +104,7 @@ _appear_ to have or are very interested in closed source Rust projects.
   - uses rust-libp2p
   - lighthouse
 - [Nimiq](https://github.com/nimiq/core-rs)
-- [Celo](https://celo.org) - maybe? recruitment email mentioned rust
+- [Celo](https://celo.org)
 - [Qtum](https://qtum.org/en)
   - x86 emulator in Rust
 - [The Graph](https://thegraph.com/)
