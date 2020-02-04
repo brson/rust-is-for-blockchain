@@ -168,6 +168,7 @@ _appear_ to have or are very interested in closed source Rust projects.
   - https://github.com/enigmampc/enigma-core
 - [Comit](https://github.com/comit-network)
 - [ptokens.io](https://ptokens.io)
+- [Spacemesh](https://spacemesh.io/)
 
 ## Rust crates used by or created by blockchain projects
 
