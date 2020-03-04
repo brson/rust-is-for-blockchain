@@ -169,6 +169,7 @@ _appear_ to have or are very interested in closed source Rust projects.
 - [Comit](https://github.com/comit-network)
 - [ptokens.io](https://ptokens.io)
 - [Spacemesh](https://spacemesh.io/)
+- [golem](https://github.com/golemfactory)
 
 ## Rust crates used by or created by blockchain projects
 
