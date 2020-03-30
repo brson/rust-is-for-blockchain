@@ -170,6 +170,7 @@ _appear_ to have or are very interested in closed source Rust projects.
 - [ptokens.io](https://ptokens.io)
 - [Spacemesh](https://spacemesh.io/)
 - [golem](https://github.com/golemfactory)
+- [Itering](https://itering.com)
 
 ## Rust crates used by or created by blockchain projects
 
