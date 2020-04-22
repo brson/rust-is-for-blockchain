@@ -232,7 +232,12 @@ _appear_ to have or are very interested in closed source Rust projects.
   - Probably a dead-end
 - [unsigned-varint](https://github.com/paritytech/unsigned-varint)
 - [adblock-rust](https://github.com/brave/adblock-rust)
-
+- https://github.com/ipfs-rust/rust-ipfs
+- https://github.com/filecoin-project/
+  - some rust projects
+- https://github.com/ChainSafe/forest
+- https://github.com/tenx-tech
+- https://github.com/KomodoPlatform
 
 ## Blockchain companies that have sponsored Rust
 
@@ -260,6 +265,7 @@ _appear_ to have or are very interested in closed source Rust projects.
 - https://medium.com/solana-labs/solana-at-portland-dev-meetup-72e4dc7ad32c
 - https://rustinblockchain.org/
 - https://github.com/rust-in-blockchain/awesome-blockchain-rust
+- https://github.com/hyperledger-labs/solang
 
 ## Blockchain conference sponsors
 
