@@ -192,6 +192,8 @@ _appear_ to have or are very interested in closed source Rust projects.
   - YubiKey interop
   - tendermint
 - https://crates.io/crates/subtle
+- https://www.reddit.com/r/rust/comments/g4w8by/ann_rustcrypto_signature_v10_and_ed25519_v10/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+- https://www.reddit.com/r/rust/comments/gbjsr9/ann_rustcrypto_p256_and_k256_v020_pure_rust_nist/
 
 ## VMs
 
