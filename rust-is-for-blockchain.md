@@ -171,6 +171,7 @@ _appear_ to have or are very interested in closed source Rust projects.
 - [Spacemesh](https://spacemesh.io/)
 - [golem](https://github.com/golemfactory)
 - [Itering](https://itering.com)
+- https://github.com/crypto-com/chain
 
 ## Rust crates used by or created by blockchain projects
 
@@ -190,6 +191,7 @@ _appear_ to have or are very interested in closed source Rust projects.
 - [yubihsm-rs](https://github.com/tendermint/yubihsm-rs)
   - YubiKey interop
   - tendermint
+- https://crates.io/crates/subtle
 
 ## VMs
 
@@ -238,6 +240,7 @@ _appear_ to have or are very interested in closed source Rust projects.
 - https://github.com/ChainSafe/forest
 - https://github.com/tenx-tech
 - https://github.com/KomodoPlatform
+- https://github.com/nervosnetwork/faster-hex/
 
 ## Blockchain companies that have sponsored Rust
 
